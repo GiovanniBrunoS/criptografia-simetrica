@@ -6,4 +6,5 @@
 
 ## Instruções para uso
 
-  Seguir as instruções dispostas na tela ao executar o programa.
+  Programa escrito em C, baseado na criptografia de César, seguir as instruções dispostas na tela ao executar o programa.
+  
